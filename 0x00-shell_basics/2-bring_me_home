@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(cd /root)
+echo (cd)
+
