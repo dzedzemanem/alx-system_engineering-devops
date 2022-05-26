@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --version hello
+chmod 753 hello
