@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ((128+((export x="TRUEKNOWLEDGE"))))
+echo $((128+((export TRUEKNOWLEDGE="121"))))
